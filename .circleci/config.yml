@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>java script</title>
+  <style>
+    body{
+  background-color: brown;
+}
+h1{
+  color: aquamarine;
+  font-size: 3em;
+}
+p{
+  color: aqua;
+  font-size: xx-large;
+  font-style: oblique;
+}
+  </style>
+</head>
+
+<body>
+  <h1>hello there</h1>
+  <p>
+    kareem khattab 
+    <br>i hope to be a web site developer 
+    <br>
+    but i try now:-)
+  </p>
+
+   <script src="app.js">
+  </script>
+</body>
+
+</html>
